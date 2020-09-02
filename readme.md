@@ -64,8 +64,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-[screenshot van de cards against humanity store website](images/screenie.png)
+![screenshot van de cards against humanity store website](images/screenie.png)
 
 **Breakdown-schets(en):**
 
-[screenshot met annotaties over de html structuur](images/breakdown.png)
+![screenshot met annotaties over de html structuur](images/breakdown.png)
